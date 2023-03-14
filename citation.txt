@@ -1,4 +1,4 @@
-@article{REPO-383,
+@article{REPO-382,
     author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
     journal = "ACM Transactions on Graphics",
     number = "4",
